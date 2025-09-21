@@ -9,3 +9,7 @@ Google在設計這種課程時很用心，利用課程做出Profolio,可以當�
 * Strengths: What skills, knowledge, and talents set me apart?
 * Motivations: What fuels and motivates me most?
 * Values: What values guide me?
+
+## 比較Python跟TypeScript的一些寫法習慣
+
+<img width="878" height="334" alt="image" src="https://github.com/user-attachments/assets/17b70da4-7a3d-4462-8f7b-5055dd89cc87" />
